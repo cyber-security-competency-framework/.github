@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to define a skills and competencies framework to help classify and describe technical and non-technical skills used in different cyber security professional (CySP) roles.
+This project aims to define a skills and competencies framework to help classify and describe technical and non-technical skills used in different cyber security professional (CySP) roles. It is intended to compliment an existing organisational framework which may include definitions for other aspects of growth and performance such as execution, impact, collaboration, communication, community and citizenship.
 
 The project is divided into two technical sub-projects with distinct set of activities:
 
