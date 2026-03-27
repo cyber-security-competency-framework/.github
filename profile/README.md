@@ -7,10 +7,10 @@ This project contains the definition of a skills and competencies framework to h
 It also includes a project to implement a webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles and other use cases.
 
 * CSeC framework
-  - [Markdown File] (https://github.com/cyber-security-competency-framework/competencies/blob/main/app/src/COMPETENCIES.md)
+  - [Markdown File](https://github.com/cyber-security-competency-framework/competencies/blob/main/app/src/COMPETENCIES.md)
 * CSeC Web Application - webapp to enable practical use of the framework, browsing the skills and competencies, self-assessment and creation of individual skill profiles as “competency wheels”, comparing profiles across a team, defining template skills for different CySP roles, etc..
-  - [Website] (https://cyber-security-competency-framework.github.io)
-  - GitHub repository (https://github.com/cyber-security-competency-framework/competencies)
+  - [Website](https://cyber-security-competency-framework.github.io)
+  - [GitHub repository](https://github.com/cyber-security-competency-framework/competencies)
 
 ## Defining and classifying skills
 
@@ -23,9 +23,9 @@ If you think competencies are missing, need clarification, or could be reorganis
 We reviewed a number of related work into defining skills and competencies:
 
 - [UK Government Science and Engineering (GSE) Career Framework](https://www.gov.uk/government/publications/government-science-and-engineering-career-framework) and [UK Government's Digital, Data and Technology (DDaT) Capability Framework](https://ddat-capability-framework.service.gov.uk/)
-- [Chartered Institute of Information Security Skills Framework] (https://www.ciisec.org/frameworks/skills-framework/)
+- [Chartered Institute of Information Security Skills Framework](https://www.ciisec.org/frameworks/skills-framework/)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v9, the current standard](https://sfia-online.org/en/sfia-9)
-- [NICE Workforce Framework for Cybersecurity] (https://niccs.cisa.gov/tools/nice-framework)
+- [NICE Workforce Framework for Cybersecurity](https://niccs.cisa.gov/tools/nice-framework)
 - [JISC Digital Capability](https://digitalcapability.jisc.ac.uk/what-is-digital-capability/)
 - [Civil Service Competency Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/436073/cscf_fulla4potrait_2013-2017_v2d.pdf)
 
