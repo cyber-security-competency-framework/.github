@@ -4,7 +4,7 @@
 
 This project contains the definition of a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as security engineers and analysts, security operations specialists, risk and compliance specialists etc. (collectively known as the CySPs - Cyber Security Professionals), along with lists of tools/methods/behaviours to demonstrate skills and training materials and resources that can help us gain a particular skill.
 
-The current version is written from the perspective of a team fulfilling the missikn of securing their own rather than other organisations. Future versions may cover the additional competencies required for the latter. 
+The current version is written from the perspective of a team fulfilling the mission of securing their own rather than other organisations. Future versions may cover the additional competencies required for the latter. 
 
 It also includes a project to implement a webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles and other use cases.
 
